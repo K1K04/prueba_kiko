@@ -13,7 +13,7 @@ Esto es un parrafo de prueba con letrs en **Negrita** , en *cursiva* y en `codig
   
 [PLEDIN](https://fp.josedomingo.org/)
 
-[README](https://github.com/K1K04/prueba_kiko/blob/main/README.md)
+[README](README.md)
 
 
 ![alt imagen de PLEDIN](https://fp.josedomingo.org/assets/images/bio-photo2.jpg)
