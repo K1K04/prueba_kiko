@@ -1,7 +1,9 @@
 # Esto es el titulo principal
 ## Esto es el subtitulo 
 Esto es un parrafo de prueba con letrs en **Negrita** , en *cursiva* y en `codigo`
+
 `ssh usuario@192.168.122.139`
+
 1. Primera linea lista ordenada
 2. Segunda linea lista ordenada
 3. Tercera linea lista ordenada
